@@ -1,5 +1,5 @@
-#ifndef MAIN_H_
-#define MAIN_H_
+#ifndef MONTY_H_
+#define MONTY_H_
 
 #define _GNU_SOURCE
 #include <stdio.h>
